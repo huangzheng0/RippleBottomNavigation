@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RippleBottomNavigation.iml" filepath="$PROJECT_DIR$/RippleBottomNavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rippleEffect/rippleEffect.iml" filepath="$PROJECT_DIR$/rippleEffect/rippleEffect.iml" />
+    </modules>
+  </component>
+</project>
